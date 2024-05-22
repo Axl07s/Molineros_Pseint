@@ -1,0 +1,3 @@
+Calificación: 3.7/4
+
+El algoritmo debe validar la contraseña tanto en mayúsculas como en minúsculas.
